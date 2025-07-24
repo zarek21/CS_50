@@ -4,5 +4,5 @@
 
 int main(void)
 {
-    printf("Hello, World, this is my first C line\n");
+    printf("Hello, World\n");
 }
